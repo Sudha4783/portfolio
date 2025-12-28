@@ -25,12 +25,13 @@ This repository will be updated regularly as I complete **projects, labs, and au
 
 ---
 
-## 🚀 Planned Projects
-- Fake Certificate Verification using Blockchain  
-- Smart Irrigation System (IoT)  
-- Fake Product Identification System (Blockchain)  
-- Merkle Tree Implementation  
-- n8n Automation Workflows  
+###🚀 Planned Projects
+- [Smart Irrigation System](projects/smart-irrigation-system.md)
+- [Fake Certificate Verification](projects/fake-certificate-blockchain.md)
+- [Fake Product Identification](projects/fake-product-identification.md)
+- [Merkle Tree Implementation](projects/merkle-tree.md)
+- [n8n Automation Workflows](projects/n8n-automation.md)
+
 
 ---
 
