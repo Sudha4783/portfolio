@@ -1,6 +1,6 @@
 # 👩‍💻 Raga Sudha Polimera – Portfolio
 
-🎓 **B.Tech 2nd Year CIC Student**  
+🎓 **B.Tech 3rd Year CIC Student**  
 🏫 **SRKR Engineering College**  
 🔐 Interested in **Cybersecurity, Blockchain, IoT, and Automation**
 
